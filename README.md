@@ -32,11 +32,11 @@ An interactive Streamlit web application is used to visualize transaction creati
 
 ## Technologies Used
 
-**Programming Language:**	Python
-**Web Framework:**	Streamlit
-**Cryptography:**	AES-GCM, HKDF, Ed25519, X25519
-**Libraries:**	cryptography, PyNaCl
-**Environment:**	VS Code / Google Colab
+- **Programming Language:**	Python
+- **Web Framework:**	Streamlit
+- **Cryptography:**	AES-GCM, HKDF, Ed25519, X25519
+- **Libraries:**	cryptography, PyNaCl
+- **Environment:**	VS Code / Google Colab
 
 ## Cryptographic Algorithms
 
