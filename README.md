@@ -1,7 +1,7 @@
 ## Verifiable Refund Mechanism for Secure Transactions
 
 A cryptographically secure transaction and refund system that integrates Ephemeral X25519, AES-GCM, and Ed25519 Digital Signatures to ensure confidentiality, integrity, authenticity, and forward secrecy throughout the transaction lifecycle.
----
+
 ## Project Overview
 
 Refund mechanisms in financial systems are highly vulnerable to fraud, tampering, and forgery if not cryptographically bound to original transactions.
